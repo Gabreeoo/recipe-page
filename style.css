@@ -96,6 +96,7 @@ section.preparation > ul{
 section.preparation > ul > li{
     margin: 10px 0px;
     padding-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 /* Instruções */
