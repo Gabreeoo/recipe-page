@@ -89,11 +89,13 @@ section.preparation > h2{
 
 section.preparation > ul{
     margin-left: 50px;
+    margin-bottom: 20px;
     
 }
 
 section.preparation > ul > li{
     margin: 10px 0px;
+    padding-bottom: 25px;
 }
 
 /* Instruções */
